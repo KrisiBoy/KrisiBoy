@@ -38,5 +38,5 @@ This profile serves as a living portfolio of my development journey. I use this 
 - **LinkedIn:** https://www.linkedin.com/in/kristof-illes/
 
 *“The best way to predict the future is to invent it.” — Let's build something cool!*
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/902f713c-bb78-4f3e-be93-cc324b6db042" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/902f713c-bb78-4f3e-be93-cc324b6db042" />
 
